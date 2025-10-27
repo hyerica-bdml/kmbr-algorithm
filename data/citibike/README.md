@@ -1,0 +1,3 @@
+- Data source: [Citibike in NYC](https://citibikenyc.com/system-data)
+- Locate the `.csv` file in `data` directory
+- We use the data containing the Citibike usages in 2020/10.

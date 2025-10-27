@@ -1,0 +1,2 @@
+- Data source: [Covid-19 i the American Continent](https://www.kaggle.com/datasets/tavoglc/covid19-in-the-american-continent)
+- Locate the `data/continental.csv` file in the `data` directory

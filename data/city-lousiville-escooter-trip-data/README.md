@@ -1,0 +1,2 @@
+- Data source: [City Lousiville Escooter Trip Data](https://www.kaggle.com/datasets/busielmorley/city-lousiville-escooter-trip-data)
+- Locate the `DocklessTripOpenData*.csv` files in `data` directory
