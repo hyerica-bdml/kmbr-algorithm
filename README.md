@@ -1,5 +1,7 @@
 # Algorithm for computing k Minimum Bounding Rectangle
 
+Official implementation for the paper "Rapid Detection of the Smallest k-Minimum Bounding Rectangles for Moving Objects".
+
 **Problem Definition**: Finding the smallest \(k\)-Minimum Bounding Rectangle (\(k\)-MBR) in the precense of moving object, given a spatial dataset
 
 ## Project structure
