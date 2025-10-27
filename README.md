@@ -1,15 +1,11 @@
 # Algorithm for computing k Minimum Bounding Rectangle
 
-
-
 **Problem Definition**: Finding the smallest \(k\)-Minimum Bounding Rectangle (\(k\)-MBR) in the precense of moving object, given a spatial dataset
 
 ## Project structure
 - `edu.hanyang.kmbr`
 - `edu.hanyang.enclosing1998` [1]
 - `edu.hanyang.smallest2019` [2]
-- `edu.hanyang.voronoi` (not used)
-- `edu.hanyang.voronoi1991` [3] (not used)
 
 ### `edu.hanyang.kmbr`
 The package containing main codes of our idea.
@@ -19,12 +15,6 @@ The package containing main codes of our idea.
 
 ### `edu.hanyang.smallest2019` [2]
 **Related work implementation**: Unofficial implementation of [2]
-
-### edu.hanyang.voronoi
-High-order voronoi diagram implementation
-
-### edu.hanyang.voronoi1991 [3]
-**Related work implementation**: Unofficial implementation of [3] (not used in paper)
 
 ## Execution
 The source code contains several execution modes as follows:
