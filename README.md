@@ -1,6 +1,6 @@
 # Algorithm for computing k Minimum Bounding Rectangle
 
-Official implementation for the paper "Rapid Detection of the Smallest k-Minimum Bounding Rectangles for Moving Objects".
+Official implementation for the paper "Rapid Detection of the Smallest k-Minimum Bounding Rectangles for Moving Objects". (IEEE Bigdata 2025)
 
 **Problem Definition**: Finding the smallest \(k\)-Minimum Bounding Rectangle (\(k\)-MBR) in the precense of moving object, given a spatial dataset
 
@@ -100,6 +100,18 @@ INPUT> compute # compute without caching, as it is the first computation (no ava
 INPUT> compute # compute with caching.
 INPUT> clear # clear all data points.
 INPUT> exit # exit.
+```
+
+## Citation
+```
+@inproceedings{lee2025rapid,
+  title={Rapid Detection of the Smallest k-Minimum Bounding Rectangles for Moving Objects},
+  author={Lee, Jaeyoung and Kim, Younghoon},
+  booktitle={2025 IEEE International Conference on Big Data (BigData)},
+  pages={550--559},
+  year={2025},
+  organization={IEEE}
+}
 ```
 
 ## Reference
